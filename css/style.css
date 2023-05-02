@@ -1,0 +1,35 @@
+img{
+    border-radius: 70px;
+    margin-bottom: 0px;
+    background-repeat: no-repeat;
+}
+body{
+    background-color: #eaf6f6;
+}
+hr{
+    background-color: white;
+    border-style: none;
+    border-color: grey;
+    border-width: 5px;
+    width: 4%;
+    border-top-style: dotted;
+}
+.btn{
+    background-color: rgb(9, 133, 9);
+    text-align: center;
+    font-weight: bold;
+    color: rgb(2, 2, 2);
+    padding: 10px 10px 10px 10px;
+    margin-top:10px;
+    width: 100em;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color: rgb(222, 241, 51);
+}
+h1{
+    color: #66bfbf;
+}
+h3{
+    color: #66bfbf;
+}
